@@ -5,8 +5,8 @@ In this crash course, we will embark on a journey to learn and master the basics
 # Modules
 
 1. Introduction to TypeScript
-    1. Introduction to TypeScript
-    2. Installing TypeScript
+    1. [Introduction to TypeScript](module_1/1.1_introduction_to_typescript.md)
+    2. [Installing TypeScript](module_1/1.2_installing_typescript.md)
     3. Setting up a TypeScript project
     4. Basic types and variables
     5. Your first TypeScript Program
