@@ -17,7 +17,8 @@ In this crash course, we will embark on a journey to learn and master the basics
 2.2 Function parameters and return types
 2.3 Optional and default parameters
 2.4 Function overloading
-2.5 A simple project.
+2.5 A simple project
+2.6 Module 2 Wrap Up
 
 **Module 3: TypeScript Classes**
 - Creating classes
