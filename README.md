@@ -13,12 +13,12 @@ In this crash course, we will embark on a journey to learn and master the basics
     6. [Module 1 Wrap Up](module_1/1.6_module_1_wrap_up.md)
 
 2. TypeScript Functions
-    1. Declaring functions
-    2. Function parameters and return types
-    3. Optional and default parameters
-    4. Function overloading
-    5. Module 2 Project
-    6. Module 2 Wrap Up
+    1. [Declaring functions](module_2/2.1_declaring_functions.md)
+    2. [Function parameters and return types](module_2/2.2_function_parameters_and_return_types.md)
+    3. [Optional and default parameters](module_2/2.3_optional_and_default_parameters.md)
+    4. [Function overloading](module_2/2.4_function_overloading.md)
+    5. [Module 2 Project](module_2/2.5_module_2_project.md)
+    6. [Module 2 Wrap Up](module_2/2.6_module_2_wrap_up.md)
 
 3. TypeScript Classes
     1. Creating classes
