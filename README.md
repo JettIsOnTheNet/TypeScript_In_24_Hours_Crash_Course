@@ -1,20 +1,23 @@
-# Introduction and Welcome to TypeScript
+# Welcome to the world of TypeScript! 
 
-Welcome to the world of TypeScript! In this crash course, we will embark on a journey to learn and master the basics of programming in TypeScript. There are 24 modules, with each module taking at longest around 1 hour to complete. Have your cup of tea in hand? Click here and let's get started!
+In this crash course, we will embark on a journey to learn and master the basics of programming in TypeScript. There are 24 modules, and at the start of each module, you should start a timer. If you have completed a module with time remaining, review the module before the time runs out, or repeat the exercises. This will help you reenforce and retain the knowledge in the module. While this could be considered a beginner course, it by no means covers every aspect of TypeScript. We do assume you have at a minimum very basic knowledge of programming, or have tried to learn programming before. Ready to go? Let's not waste more time. Grab a cup of tea and CLICK HERE TO GET STARTED!
 
 # Modules
 
 **Module 1: Introduction to TypeScript**
-- Introduction to TypeScript
-- Installing TypeScript
-- Setting up a TypeScript project
-- Basic types and variables
+1.1 Introduction to TypeScript
+1.2 Installing TypeScript
+1.3 Setting up a TypeScript project
+1.4 Basic types and variables
+1.5 Your first TypeScript Program
+1.6 Module 1 Wrap Up
 
 **Module 2: TypeScript Functions**
-- Declaring functions
-- Function parameters and return types
-- Optional and default parameters
-- Function overloading
+2.1 Declaring functions
+2.2 Function parameters and return types
+2.3 Optional and default parameters
+2.4 Function overloading
+2.5 A simple project.
 
 **Module 3: TypeScript Classes**
 - Creating classes
