@@ -1,6 +1,6 @@
 # Welcome to the world of TypeScript! 
 
-In this crash course, we will embark on a journey to learn and master the basics of programming in TypeScript. There are 24 modules, and at the start of each module, you should start a timer. If you have completed a module with time remaining, review the module before the time runs out, or repeat the exercises. This will help you reenforce and retain the knowledge in the module. While this could be considered a beginner course, it by no means covers every aspect of TypeScript. We do assume you have at a minimum very basic knowledge of programming, or have tried to learn programming before. Ready to go? Let's not waste more time. Grab a cup of tea and CLICK HERE TO GET STARTED!
+In this crash course, we will embark on a journey to learn and master the basics of programming in TypeScript. There are 24 modules, and at the start of each module, you should start a timer. It is absolutely ok to take more time than 1 hour, do not rush! However, if you have completed a module with time remaining, take the remaining time to review the module before the time runs out, or repeat the exercises. This will help reenforce and retain the knowledge in the module. While this could be considered a beginner course, it by no means covers every aspect of TypeScript. We do assume you have at a minimum very basic knowledge of programming, or have tried to learn programming before. Ready to go? Let's not waste more time. Grab a cup of tea and CLICK HERE TO GET STARTED!
 
 # Modules
 
