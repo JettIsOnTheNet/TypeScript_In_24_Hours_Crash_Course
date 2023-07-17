@@ -1,16 +1,16 @@
 # Welcome to the world of TypeScript! 
 
-In this crash course, we will embark on a journey to learn and master the basics of programming in TypeScript. There are 24 modules, and at the start of each module, you should start a timer. It is absolutely ok to take more time than 1 hour, do not rush! However, if you have completed a module with time remaining, take the remaining time to review the module before the time runs out, or repeat the exercises. This will help reenforce and retain the knowledge in the module. While this could be considered a beginner course, it by no means covers every aspect of TypeScript. We do assume you have at a minimum very basic knowledge of programming, or have tried to learn programming before. Ready to go? Let's not waste more time. Grab a cup of tea and CLICK HERE TO GET STARTED!
+In this crash course, we will embark on a journey to learn and master the basics of programming in TypeScript. There are 24 modules, and at the start of each module, you should start a timer. It is absolutely ok to take more time than 1 hour, do not rush! However, if you have completed a module with time remaining, take the remaining time to review the module before the time runs out, or repeat the exercises. This will help reenforce and retain the knowledge in the module. While this could be considered a beginner course, it by no means covers every aspect of TypeScript. We do assume you have at a minimum very basic knowledge of programming, or have tried to learn programming before. Ready to go? Let's not waste more time. Grab a cup of tea ☕ and [CLICK HERE TO GET STARTED](module_1/1.1_introduction_to_typescript.md)
 
 # Modules
 
 1. Introduction to TypeScript
     1. [Introduction to TypeScript](module_1/1.1_introduction_to_typescript.md)
     2. [Installing TypeScript](module_1/1.2_installing_typescript.md)
-    3. Setting up a TypeScript project
-    4. Basic types and variables
-    5. Your first TypeScript Program
-    6. Module 1 Wrap Up
+    3. [Setting up a TypeScript project](module_1/1.3_setting_up_a_typscript_project.md)
+    4. [Basic types and variables](module_1/1.4_basic_types_and_variables.md)
+    5. [Your first TypeScript Program](module_1/1.5_your_first_typescript_program.md)
+    6. [Module 1 Wrap Up](module_1/1.6_module_1_wrap_up.md)
 
 2. TypeScript Functions
     1. Declaring functions
