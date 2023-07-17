@@ -4,21 +4,21 @@ In this crash course, we will embark on a journey to learn and master the basics
 
 # Modules
 
-**Module 1: Introduction to TypeScript**
-1.1 Introduction to TypeScript
-1.2 Installing TypeScript
-1.3 Setting up a TypeScript project
-1.4 Basic types and variables
-1.5 Your first TypeScript Program
-1.6 Module 1 Wrap Up
+1 Module 1: Introduction to TypeScript
+    1 Introduction to TypeScript
+    2 Installing TypeScript
+    3 Setting up a TypeScript project
+    4 Basic types and variables
+    5 Your first TypeScript Program
+    6 Module 1 Wrap Up
 
-**Module 2: TypeScript Functions**
-2.1 Declaring functions
-2.2 Function parameters and return types
-2.3 Optional and default parameters
-2.4 Function overloading
-2.5 A simple project
-2.6 Module 2 Wrap Up
+2 Module 2: TypeScript Functions
+    1 Declaring functions
+    2 Function parameters and return types
+    3 Optional and default parameters
+    4 Function overloading
+    5 A simple project
+    6 Module 2 Wrap Up
 
 **Module 3: TypeScript Classes**
 - Creating classes
