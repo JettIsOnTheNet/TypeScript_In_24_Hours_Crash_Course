@@ -198,3 +198,6 @@ In this crash course, we will embark on a journey to learn and master the basics
 
 25. Bonus Materials
     1. Deploy to Vercel
+    2. Deploy to Heroku
+    3. Deploy to Azure
+    4. Deploy to AWS
