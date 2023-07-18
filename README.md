@@ -1,6 +1,8 @@
 # Welcome to the world of TypeScript!
 
-Thanks for checking out the first few chapters of the interactive book I am progressively building.
+```
+Thanks for checking out the first few parts of the interactive book I am building. I am releasing the first few Modules just to get some feedback. The book will have 2 parts. An interactive app, and a non-interactive portion. This is the initial non-interactive portion. I needed this to start building the interactive app. I am open to any suggestions/fixes, please open an issue or pr. Thanks. - Jett
+```
 
 In this crash course, we will embark on a journey to learn and master the basics of programming in TypeScript. There are 24 modules, and at the start of each module, you should start a timer. It is absolutely ok to take more time than 1 hour, do not rush! However, if you have completed a module with time remaining, take the remaining time to review the module before the time runs out, or repeat the exercises. This will help reenforce and retain the knowledge in the module. While this could be considered a beginner course, it by no means covers every aspect of TypeScript. We do assume you have at a minimum very basic knowledge of programming, or have tried to learn programming before. Ready to go? Let's not waste more time. Grab a cup of tea ☕ and [CLICK HERE TO GET STARTED](module_1/1.1_introduction_to_typescript.md)
 
