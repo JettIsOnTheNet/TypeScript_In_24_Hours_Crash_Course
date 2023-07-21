@@ -31,10 +31,10 @@ Know TypeScript but need a quick reference? Check out the Cheat Sheet.
     6. [Module 2 Wrap Up](module_2/2.6_module_2_wrap_up.md)
 
 3. TypeScript Classes
-    1. Creating classes
-    2. Class properties and methods
-    3. Constructors and initialization
-    4. Access modifiers
+    1. [Creating classes](module_3/3.1_classes_and_objects.md)
+    2. [Constructors and initialization](module_3/3.2_constructors_and_initialization.md)
+    3. [Class properties and methods](module_3/3.3_class_properties_and_methods.md)
+    4. [Access modifiers](module_3/3.4_access_modifiers.md)
     5. Module 3 Project
     6. Module 3 Wrap Up
 
